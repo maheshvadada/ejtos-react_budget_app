@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.btnAddRed {
+    border-radius: 15px;
+    font-weight: bold;
+    height: 30px;
+    width: 30px;
+}
